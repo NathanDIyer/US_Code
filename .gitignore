@@ -16,6 +16,7 @@ ai_cache/
 # Project-specific large folders
 pdf/
 txt/
+usc_sections_index.json
 
 # OS
 .DS_Store
