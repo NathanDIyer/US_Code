@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+
+# Data/artifacts
+ai_cache/
+*.db
+*.sqlite
+*.sqlite3
+
+# Project-specific large folders
+pdf/
+txt/
+
+# OS
+.DS_Store
